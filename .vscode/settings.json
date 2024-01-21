@@ -7,10 +7,10 @@
   },
   "prettier.tabWidth": 2,
   "prettier.useTabs": false,
-  "prettier.semi": true,
+  "prettier.semi": false,
   "prettier.singleQuote": false,
   "prettier.jsxSingleQuote": false,
-  "prettier.trailingComma": "es5",
+  "prettier.trailingComma": "none",
   "prettier.arrowParens": "always",
   "[typescriptreact]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
